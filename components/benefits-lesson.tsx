@@ -8,7 +8,7 @@ function InstructorBlock() {
   return (
     <div className="mt-6 flex items-center gap-3">
       <span className="flex h-[46px] w-[46px] shrink-0 overflow-hidden rounded-full">
-        <img src="/host-pinecone.png" alt="Pinecone by Stanford" className="h-full w-full object-cover" />
+        <img src="/brand/pinecone-logo.png" alt="Pinecone by Stanford" className="h-full w-full object-cover" />
       </span>
       <div className="min-w-0">
         <p className="text-[17px] font-bold leading-tight text-[#1a1a1a]">Pinecone by Stanford</p>
